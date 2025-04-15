@@ -1,0 +1,21 @@
+=== RELATÓRIO DE CLIENTES ===
+Data: 14_04_2025
+Total de clientes: 1
+================================
+
+CLIENTE 1
+Nome: 
+CNPJ: 5477788889
+Última atualização: 14/04/2025
+Resíduos (ton): 122
+Valor mensal (R$): 15000.00
+Gasto semestral estimado (R$): 90000.00
+------------------------------
+
+====== RELATÓRIO GLOBAL ======
+Total de resíduos tratados no semestre: 122 toneladas
+Aporte financeiro semestral estimado: R$ 90000.00
+Indústria com menor produção:
+Nome: 
+CNPJ: 5477788889
+Resíduos no semestre: 122 toneladas
